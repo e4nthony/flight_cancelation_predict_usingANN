@@ -1,0 +1,8 @@
+SYS_FIELD_NAME,FIELD_DESC
+FL_DATE,Flight Date (yyyymmdd)
+ORIGIN,Origin Airport
+DEST,Destination Airport
+CRS_DEP_TIME,CRS Departure Time (local time: hhmm)
+CRS_ARR_TIME,CRS Arrival Time (local time: hhmm)
+CANCELLED,Cancelled Flight Indicator (1=Yes)
+CANCELLATION_CODE,Specifies The Reason For Cancellation
