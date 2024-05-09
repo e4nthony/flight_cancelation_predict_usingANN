@@ -22,3 +22,5 @@ py -m pip install requests-cache retry-requests numpy pandas
 
 #### AI tools:
 py -m pip install scikit-learn
+
+#### to run project run the main.py file
