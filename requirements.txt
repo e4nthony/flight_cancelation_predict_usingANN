@@ -1,0 +1,10 @@
+# --- Project Dependencies --- :
+numpy 
+pandas
+scikit-learn
+
+# --- Weather API Dependencies --- :
+openmeteo-requests
+requests-cache
+retry-requests
+# note: Weather API also requires `numpy` and `pandas` (installed in previous steps.) 
